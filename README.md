@@ -25,7 +25,7 @@ ___
 * [Better caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/download/2957970)
 * [Mr. Crayfish's furniture mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/download/2749993)
 * [Roguelike dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons/download/2492586)
-* [Mystical agriculture]()
+* [Mystical agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/download/2704562)
 * [Mystical agraditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/download/2704832)
 * [Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/download/2630860)
 * [Tinker's construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483)
@@ -35,7 +35,7 @@ ___
 * [Connected Textures Mod (required by Chisel)](https://www.curseforge.com/minecraft/mc-mods/ctm/download/2915363) 
 * [Placebo (required by Apotheosis)](https://www.curseforge.com/minecraft/mc-mods/placebo/download/2694382)
 * [Moving world (required by Davinci's vessels)](https://www.curseforge.com/minecraft/mc-mods/movingworld/download/2485041)
-* [Cucumber (required by Mystical Agriculture and Mystical agraditions)](https://www.curseforge.com/minecraft/mc-mods/cucumber/download/2546515)
+* [Cucumber (required by Mystical Agriculture and Mystical agraditions)](https://www.curseforge.com/minecraft/mc-mods/cucumber/download/2645867)
 
 ## Client sided (Not required):
 
