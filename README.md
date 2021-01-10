@@ -29,6 +29,7 @@ ___
 * [Mystical agraditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/download/2704832)
 * [Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/download/2630860)
 * [Tinker's construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483)
+* [Corail toumbstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/download/3132950)
 
 ## Libraries (Required)
 * [Connected Textures Mod (required by Chisel)](https://www.curseforge.com/minecraft/mc-mods/ctm/download/2915363) 
