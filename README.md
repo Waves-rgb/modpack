@@ -3,11 +3,11 @@
 ![link-lite](https://img.shields.io/badge/download-lite-brightgreen)
 ![link-heavy](https://img.shields.io/badge/download-heavy%20(has%20client%20sided)-yellow)
 ![link-server](https://img.shields.io/badge/download-server-pink)
-![mods](https://img.shields.io/badge/mods-billions-red)
-![mods](https://img.shields.io/badge/version-1.12.2-purple)
+![version](https://img.shields.io/badge/version-1.12.2-purple)
 ![runability](https://img.shields.io/badge/runability-fairly%20easy-blueviolet)
 
 ![banner](now.png)
+# Waves' modpack
 
 ## Required:
 * [Iron chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/2747935)
@@ -52,4 +52,3 @@ ____
 ## Server sided (For servermaster):
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/download/2666198)
 * [Gotta go fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast/download/2553444)
-
