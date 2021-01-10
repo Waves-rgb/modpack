@@ -8,7 +8,7 @@
 ![banner](now.png)
 
 ## <center>A fairly easy to run modpack for me and some friends.</center>
-___
+
 # Required:
 * [Iron chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/2747935)
 * [Iron backpacks](https://www.curseforge.com/minecraft/mc-mods/iron-backpacks/download/2564573)
