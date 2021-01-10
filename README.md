@@ -31,7 +31,6 @@ ___
 * [Tinker's construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483)
 
 ## Libraries (Required)
-____
 * [Connected Textures Mod (required by Chisel)](https://www.curseforge.com/minecraft/mc-mods/ctm/download/2915363) 
 * [Placebo (required by Apotheosis)](https://www.curseforge.com/minecraft/mc-mods/placebo/download/2694382)
 * [Moving world (required by Davinci's vessels)](https://www.curseforge.com/minecraft/mc-mods/movingworld/download/2485041)
