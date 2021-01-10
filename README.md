@@ -47,6 +47,7 @@ ____
 * [Neat](https://www.curseforge.com/minecraft/mc-mods/neat/download/2595310)
 * [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2560638)
 * [Inventory tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481)
+
 ## Server sided (For servermaster):
 ___
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/download/2666198)
