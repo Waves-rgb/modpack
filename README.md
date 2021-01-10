@@ -1,14 +1,14 @@
 # Waves' modpack
 
-![link-lite](https://img.shields.io/badge/download-lite-brightgreen)
-![link-heavy](https://img.shields.io/badge/download-heavy%20(has%20client%20sided)-yellow)
-![link-server](https://img.shields.io/badge/download-server-pink)
-![version](https://img.shields.io/badge/version-1.12.2-purple)
-![runability](https://img.shields.io/badge/runability-fairly%20easy-blueviolet)
+[![link-lite](https://img.shields.io/badge/download-lite%20(does%20not%20include%20client%20sided)-brightgreen)](https://waves.codes/mp-lite.zip)
+[![link-heavy](https://img.shields.io/badge/download-heavy%20(has%20client%20sided)-yellow)](https://waves.codes/mp-heavy.zip)
+[![link-server](https://img.shields.io/badge/download-server-pink)](https://waves.codes/mp-server.zip)
+[![version](https://img.shields.io/badge/version-1.12.2-purple)](https://minecraft.net/)
+<!-- ![runability](https://img.shields.io/badge/runability-fairly%20easy-blueviolet) -->
 
 ![banner](now.png)
-# Waves' modpack
-
+### A fairly easy to run modpack for me and some friends.
+___
 ## Required:
 * [Iron chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/2747935)
 * [Iron backpacks](https://www.curseforge.com/minecraft/mc-mods/iron-backpacks/download/2564573)
