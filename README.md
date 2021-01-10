@@ -7,6 +7,8 @@
 ![mods](https://img.shields.io/badge/version-1.12.2-purple)
 ![runability](https://img.shields.io/badge/runability-fairly%20easy-blueviolet)
 
+![banner](now.png)
+
 ## Required:
 * [Iron chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/2747935)
 * [Iron backpacks](https://www.curseforge.com/minecraft/mc-mods/iron-backpacks/download/2564573)
