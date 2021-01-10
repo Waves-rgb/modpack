@@ -1,5 +1,4 @@
-# Waves' modpack
-
+# <center>Waves' modpack</center>
 [![link-lite](https://img.shields.io/badge/download-lite%20(does%20not%20include%20client%20sided)-brightgreen)](https://waves.codes/mp-lite.zip)
 [![link-heavy](https://img.shields.io/badge/download-heavy%20(has%20client%20sided)-yellow)](https://waves.codes/mp-heavy.zip)
 [![link-server](https://img.shields.io/badge/download-server-pink)](https://waves.codes/mp-server.zip)
@@ -7,9 +6,10 @@
 <!-- ![runability](https://img.shields.io/badge/runability-fairly%20easy-blueviolet) -->
 
 ![banner](now.png)
-### A fairly easy to run modpack for me and some friends.
+
+## <center>A fairly easy to run modpack for me and some friends.</center>
 ___
-## Required:
+# Required:
 * [Iron chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/2747935)
 * [Iron backpacks](https://www.curseforge.com/minecraft/mc-mods/iron-backpacks/download/2564573)
 * [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel/download/2915375)
