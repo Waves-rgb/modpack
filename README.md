@@ -8,7 +8,6 @@
 ![runability](https://img.shields.io/badge/runability-fairly%20easy-blueviolet)
 
 ## Required:
-____
 * [Iron chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/download/2747935)
 * [Iron backpacks](https://www.curseforge.com/minecraft/mc-mods/iron-backpacks/download/2564573)
 * [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel/download/2915375)
@@ -37,7 +36,7 @@ ____
 * [Cucumber (required by Mystical Agriculture and Mystical agraditions)](https://www.curseforge.com/minecraft/mc-mods/cucumber/download/2546515)
 
 ## Client sided (Not required):
-____
+
 * [OptiFine](http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar)
 * [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/download/3043174)
 * [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap/download/2916002)
@@ -49,7 +48,6 @@ ____
 * [Inventory tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481)
 
 ## Server sided (For servermaster):
-___
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/download/2666198)
 * [Gotta go fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast/download/2553444)
 
